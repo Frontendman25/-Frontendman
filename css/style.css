@@ -95,6 +95,12 @@ a:focus {
 .content {
   background: url(../img/bgcont.png); }
 
+.aboutMe {
+  margin-bottom: 2rem;
+  line-height: 1.5;
+  font-size: 2rem;
+  color: #fff; }
+
 .done__item {
   text-align: center;
   font-size: 0; }
@@ -142,11 +148,11 @@ a:focus {
 .text:last-child {
   margin-bottom: 0; }
 .text__caption {
-  font-size: 1.5rem; }
+  font-size: 2rem; }
 .text__inner {
   padding: 1rem 0 1rem 2rem;
-  line-height: 1.4;
-  font-size: 1.3rem; }
+  line-height: 1.6;
+  font-size: 1.6rem; }
 
 /*==================================================
 =            Bootstrap 3 Media Queries             =
