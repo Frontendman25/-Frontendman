@@ -68,6 +68,17 @@ a:focus {
     color: #d66e51;
     text-shadow: 0 0 0; }
 
+.contact__wrapImg {
+  margin: 0 auto 1.5rem auto;
+  box-shadow: 2px 2px 2px rgba(77, 77, 77, 0.7);
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  background: url("../img/guitarpro.jpg") no-repeat;
+  background-size: cover;
+  background-position: -11px;
+  border: 2px solid #fff;
+  border-radius: 50%; }
 .contact__item {
   margin-bottom: .7rem;
   font-size: 1.7rem;
