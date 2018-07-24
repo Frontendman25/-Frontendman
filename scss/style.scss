@@ -61,23 +61,6 @@ a:focus{
 
 .contact{
 	@extend .margin-btm-elements;
-	&__wrapImg{
-		margin: 0 auto 1.5rem auto;
-		box-shadow: $text-shadow;
-		width: 200px;
-		height: 200px;
-		text-align: center;
-		background: url('../img/guitarpro.jpg') no-repeat;
-		background-size: cover;
-		background-position: -11px;
-		border: 2px solid $txt-light-clr;
-    border-radius: 50%;
-	}
-//	&__img{
-//		vertical-align: middle;
-//    width: 200px;
-//    height: 200px;
-//	}
 	&__item{
 		margin-bottom: .7rem;
 		@extend .Roboto-Bold;
